@@ -67,6 +67,19 @@ Self-hosted Manus alternative with **43+ tools**, live browser streaming, and mu
 
 ---
 
+## 🤝 Open Source Contributions
+
+Active contributor to **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** — a production AI agent platform. Recent merged contributions:
+
+- [#3226](https://github.com/HKUDS/nanobot/pull/3226) — `fix(transcription): honor api_base for OpenAI transcription provider`
+- [#3205](https://github.com/HKUDS/nanobot/pull/3205) — `fix(providers): add circuit breaker for Responses API fallback`
+- [#3203](https://github.com/HKUDS/nanobot/pull/3203) — `perf(tools): cache ToolRegistry.get_definitions() between mutations`
+- [#3187](https://github.com/HKUDS/nanobot/pull/3187) — `fix(api): prevent upload filename collisions and reject unsupported image URLs`
+
+Focus areas: performance profiling, memory safety in async pipelines, provider reliability, security hardening.
+
+---
+
 ## 🔬 Applied AI & ML Portfolio
 
 <div align="center">
@@ -79,7 +92,7 @@ Self-hosted Manus alternative with **43+ tools**, live browser streaming, and mu
 | [Multi-Agent System](https://github.com/mohamed-elkholy95/multi-agent-system) | [Text Classification](https://github.com/mohamed-elkholy95/text-classification) | [Fraud Detection Engine](https://github.com/mohamed-elkholy95/fraud-detection) |
 | [LoRA Fine-Tuning](https://github.com/mohamed-elkholy95/finetune-llm-lora) | [NER Extraction System](https://github.com/mohamed-elkholy95/ner-system) | [Recommendation Engine](https://github.com/mohamed-elkholy95/recommendation-engine) |
 | [Diffusion Image Gen](https://github.com/mohamed-elkholy95/diffusion-image-gen) | [Text Autocomplete](https://github.com/mohamed-elkholy95/text-autocomplete) | [E2E MLOps Pipeline](https://github.com/mohamed-elkholy95/mlops-pipeline) |
-| [nanobot](https://github.com/mohamed-elkholy95/nanobot) | [ClinIQ](https://github.com/mohamed-elkholy95/ClinIQ) | [LLM API Tester](https://github.com/mohamed-elkholy95/api-tester) |
+| [LLM API Benchmarks](https://github.com/mohamed-elkholy95/bench_py) | [ClinIQ](https://github.com/mohamed-elkholy95/ClinIQ) | [LLM API Tester](https://github.com/mohamed-elkholy95/api-tester) |
 | [MCP From Scratch](https://github.com/mohamed-elkholy95/mcp-project) | [Voice Assistant](https://github.com/mohamed-elkholy95/realtime-voice-assistant) | [Customer Churn](https://github.com/mohamed-elkholy95/customer-churn-prediction) |
 
 </div>
