@@ -67,19 +67,6 @@ Self-hosted Manus alternative with **43+ tools**, live browser streaming, and mu
 
 ---
 
-## 🤝 Open Source Contributions
-
-Active contributor to **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** — a production AI agent platform. Recent merged contributions:
-
-- [#3226](https://github.com/HKUDS/nanobot/pull/3226) — `fix(transcription): honor api_base for OpenAI transcription provider`
-- [#3205](https://github.com/HKUDS/nanobot/pull/3205) — `fix(providers): add circuit breaker for Responses API fallback`
-- [#3203](https://github.com/HKUDS/nanobot/pull/3203) — `perf(tools): cache ToolRegistry.get_definitions() between mutations`
-- [#3187](https://github.com/HKUDS/nanobot/pull/3187) — `fix(api): prevent upload filename collisions and reject unsupported image URLs`
-
-Focus areas: performance profiling, memory safety in async pipelines, provider reliability, security hardening.
-
----
-
 ## 🔬 Applied AI & ML Portfolio
 
 <div align="center">
