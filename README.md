@@ -66,6 +66,8 @@ Ultra-lightweight personal AI agent — one Python process listens on Slack, Tel
 
 `asyncio` · `Pydantic` · `aiohttp` · `Vite + React` · `Bun` · `Docker` · `MCP` · `25+ LLM providers`
 
+*Inspired by [HKUDS/nanobot](https://github.com/HKUDS/nanobot) (MIT-licensed). Thanks to the HKU Data Intelligence Lab for the original work.*
+
 </div>
 
 ---
