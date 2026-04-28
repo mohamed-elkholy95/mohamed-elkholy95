@@ -18,7 +18,7 @@
 
 ```text
 🧠 Day job       IT Infrastructure & Cloud Administration @ Technology Matrix Group
-🔭 Building      PyThinker — Production AI Agent Platform
+🔭 Building      Pythinker AI — Personal AI Agent Framework (pip install pythinker-ai)
 🎓 Studying      M.S. Applied Artificial Intelligence @ Eastern University
 💬 Ask me about  LangGraph, Multi-Agent Systems, MLOps Pipelines
 ⚡ Fun fact      Former dental surgeon turned AI engineer
@@ -56,12 +56,15 @@
 
 <div align="center">
 
-### [PyThinker — Open-Source AI Agent Platform](https://github.com/mohamed-elkholy95/Pythinker)
+### [Pythinker AI — Open-Source Personal AI Agent](https://github.com/mohamed-elkholy95/Pythinker-ai)
 
-Open-source AI agent that **browses the web, writes code, and generates research reports** autonomously.
-Self-hosted Manus alternative with **43+ tools**, live browser streaming, and multi-LLM support.
+[![PyPI](https://img.shields.io/pypi/v/pythinker-ai?cacheSeconds=300)](https://pypi.org/project/pythinker-ai/)
+[![Downloads](https://img.shields.io/pepy/dt/pythinker-ai?label=downloads&color=%2312b76a&cacheSeconds=600)](https://pepy.tech/projects/pythinker-ai)
+[![Python](https://img.shields.io/badge/python-%E2%89%A53.11-blue)](https://www.python.org/)
 
-`LangGraph` · `FastAPI` · `Vue 3` · `Redis` · `Docker` · `Playwright` · `GitHub Actions`
+Ultra-lightweight personal AI agent — one Python process listens on Slack, Telegram, Discord, WhatsApp, Matrix, MS Teams, email, a WebSocket WebUI, and an OpenAI-compatible HTTP API, all multiplexed through a small readable agent loop. **Published to PyPI** as `pythinker-ai` — `pip install pythinker-ai` to try it.
+
+`asyncio` · `Pydantic` · `aiohttp` · `Vite + React` · `Bun` · `Docker` · `MCP` · `25+ LLM providers`
 
 </div>
 
