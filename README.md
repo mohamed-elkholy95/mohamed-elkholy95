@@ -156,7 +156,7 @@ Ultra-lightweight personal AI agent — one Python process listens on Slack, Tel
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-elkholy95)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elkholy-92058a33a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melkholy-ai/)
 [![Website](https://img.shields.io/badge/Website-pythinker.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pythinker.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melkholy@techmatrix.com)
 
